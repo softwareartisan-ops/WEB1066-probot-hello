@@ -1,3 +1,4 @@
+#travis file with Docker
 sudo: required
 services:
   - docker
